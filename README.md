@@ -1,8 +1,8 @@
-# Desmos
+# Sugaku
 
-https://www.desmos.com/calculator clone with vanilla javascript, using for learning <b>Math</b> such as drawing graphs.
+A modified version of SilverbossTD's Desmos clone. Sugaku includes desktop support.
 
-Written by <i>SilverbossTD</i> (duycntsilverboss@gmail.com).
+Made by MSVE640 HD
 
 Language: <b>Javascript</b>.
 
